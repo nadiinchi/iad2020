@@ -26,18 +26,12 @@ __Очень важно:__ Категорически запрещено пол�
 Раз в несколько семинаров проводится проверочная на знание материала лекций (и иногда семинаров). Строго рекомендуется повторять материал лекций перед проверочными!
 
 ## Материалы семинаров:
-*Семинар 1.* Введение в машинное обучение. Numpy.
-* [Ноутбук с семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/sem1.ipynb)
+*Семинар 1-2.* Numpy + Python reminder.
+* [Задание по python](https://github.com/nadiinchi/iad2020/blob/master/materials/sem1_python.ipynb)
+
+* [Ноутбук с семинара numpy](https://github.com/nadiinchi/iad2019/blob/master/materials/sem1.ipynb)
 * [Ноутбук-туториал по numpy](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
 * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
-
-*Семинар 2.* Pandas и Matplotlib.
-* [Данные о пассажирах «Титаника»](https://raw.githubusercontent.com/iad34/seminars/master/materials/data_sem1.csv)
-* [Ноутбук с семинара](https://github.com/iad-24/seminars/blob/master/materials/seminar_pandas.ipynb)
-* [Лекция на Курсере про pandas - 1](https://www.coursera.org/learn/mathematics-and-python/lecture/rcjAW/pandas-data-frame)
-* [Лекция на Курсере про pandas - 2](https://www.coursera.org/learn/mathematics-and-python/lecture/lsXAR/pandas-indieksatsiia-i-sieliektsiia)
-* [Подробный ноутбук-туториал про pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
-* [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 
 
