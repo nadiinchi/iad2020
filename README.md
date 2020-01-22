@@ -27,7 +27,8 @@ __Очень важно:__ Категорически запрещено пол�
 
 ## Материалы семинаров:
 *Семинар 1-2.* Numpy + Python reminder.
-* [Ноутбук с семинара numpy](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar_numpy.ipynb)
+* [Ноутбук с семинара по Numpy](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar_numpy.ipynb)
+* [Ноутбук с семинара по Python](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar%20Python.ipynb)
 * [Задание по python](https://github.com/nadiinchi/iad2020/blob/master/materials/sem1_python.ipynb)
 * [Задание по python (решение)](https://github.com/nadiinchi/iad2020/blob/master/materials/sem1_python_solution.ipynb)
 * [Ноутбук-туториал по numpy](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
