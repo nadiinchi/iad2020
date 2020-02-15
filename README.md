@@ -35,7 +35,7 @@ __Очень важно:__ Категорически запрещено пол�
 * [Ноутбук-туториал по numpy](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
 * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
 
-*Семинар 2.* Pandas.
+*Семинар 3.* Pandas.
 * [Ноутбук с семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar%20Pandas.ipynb)
 * [Лекция на Курсере про pandas - 1](https://www.coursera.org/learn/mathematics-and-python/lecture/rcjAW/pandas-data-frame)
 * [Лекция на Курсере про pandas - 2](https://www.coursera.org/learn/mathematics-and-python/lecture/lsXAR/pandas-indieksatsiia-i-sieliektsiia)
