@@ -42,6 +42,12 @@ __Очень важно:__ Категорически запрещено пол�
 * [Подробный ноутбук-туториал про pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
 * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
+*Семинар 4-5.* Классы в Python, kNN, Scikit-learn.
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar_Sklearn.ipynb)
+* [Ноутбук про классы и sklearn](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_sklearn.ipynb)
+* [Ноутбук Евгения Ковалева про kNN](https://github.com/nadiinchi/iad2020/blob/master/materials/sem05_knn.ipynb)
+* [Документация sklearn](http://scikit-learn.org/stable/index.html)
+
 
 
 ## Полезные ссылки
