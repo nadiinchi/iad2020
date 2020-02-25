@@ -48,6 +48,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Ноутбук Евгения Ковалева про kNN](https://github.com/nadiinchi/iad2020/blob/master/materials/sem05_knn.ipynb)
 * [Документация sklearn](http://scikit-learn.org/stable/index.html)
 
+*Семинар 6* Линейная регрессия.
+* [Стартовый ноутбук](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_linreg_practice.ipynb)
+
 
 
 ## Полезные ссылки
