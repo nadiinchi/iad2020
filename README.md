@@ -50,6 +50,7 @@ __Очень важно:__ Категорически запрещено пол�
 
 *Семинар 6* Линейная регрессия.
 * [Стартовый ноутбук](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_linreg_practice.ipynb)
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar_linreg_practice_solved.ipynb)
 
 
 
