@@ -56,6 +56,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Ноутбук для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads_students.ipynb)
 * [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads.ipynb)
 
+*Семинар 8.* Линейная классификация
+* [Конспект семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/linclass.ipynb)
+
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
