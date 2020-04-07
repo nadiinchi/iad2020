@@ -63,6 +63,10 @@ __Очень важно:__ Категорически запрещено пол�
 *Семинар 9.* Метрики качества линейной классификации
 * [Задание по метрикам качества линейной классификации](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_metrics.ipynb)
 
+*Семинар 10-11.* Решающие деревья и композиции деревьев (бэггинг).
+* [Практическое задание 1](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice_students1.ipynb)
+* [Практическое задание 2](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice_students2.ipynb)
+
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
