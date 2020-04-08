@@ -64,8 +64,10 @@ __Очень важно:__ Категорически запрещено пол�
 * [Задание по метрикам качества линейной классификации](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_metrics.ipynb)
 
 *Семинар 10-11.* Решающие деревья и композиции деревьев (бэггинг).
+* [Конспект семинара (теория + практика 1)](https://github.com/nadiinchi/iad2020/blob/master/materials/trees.pdf)
 * [Практическое задание 1](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice_students1.ipynb)
 * [Практическое задание 2](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice_students2.ipynb)
+* [Решение практического задания 2 (grid search в конце ноутбука)](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice.ipynb)
 
 
 ## Полезные ссылки
