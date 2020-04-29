@@ -72,6 +72,9 @@ __Очень важно:__ Категорически запрещено пол�
 *Семинар 12.* Композиции алгоритмов
 * [Конспект семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/compositions.ipynb)
 
+*Семинар 13.* Анализ текстов
+* [Конспект с заданием](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_texts_students.ipynb)
+* [Конспект с решением](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_texts_solution.ipynb)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
