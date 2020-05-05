@@ -77,6 +77,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Конспект с заданием](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_texts_students.ipynb)
 * [Конспект с решением](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_texts_solution.ipynb)
 
+*Семинар 14.* Градиентный бустинг
+* [Задание для семинара (задачи и практика)](https://github.com/nadiinchi/iad2020/blob/master/materials/gb_students.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
