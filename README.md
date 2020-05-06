@@ -79,6 +79,7 @@ __Очень важно:__ Категорически запрещено пол�
 
 *Семинар 14.* Градиентный бустинг
 * [Задание для семинара (задачи и практика)](https://github.com/nadiinchi/iad2020/blob/master/materials/gb_students.ipynb)
+* [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/gb_seminar.ipynb)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
