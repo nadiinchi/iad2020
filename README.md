@@ -81,6 +81,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Задание для семинара (задачи и практика)](https://github.com/nadiinchi/iad2020/blob/master/materials/gb_students.ipynb)
 * [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/gb_seminar.ipynb)
 
+*Семинар 15.* Визуализация данных, генерация признаков, общий план решения практической задачи
+* [Задание для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_part1_students.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
