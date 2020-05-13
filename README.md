@@ -83,6 +83,7 @@ __Очень важно:__ Категорически запрещено пол�
 
 *Семинар 15.* Визуализация данных, генерация признаков, общий план решения практической задачи
 * [Задание для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_part1_students.ipynb)
+* [Презентация](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
