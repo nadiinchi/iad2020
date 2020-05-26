@@ -89,6 +89,9 @@ __Очень важно:__ Категорически запрещено пол�
 *Семинар 16.* Визуализация данных, генерация признаков, общий план решения практической задачи: продолжение
 * [Задание для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_feature_gen_part2_students.ipynb)
 
+*Семинар 17.* Кластеризация
+* [Задание для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Sem_clustering_students.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
