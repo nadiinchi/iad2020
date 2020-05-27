@@ -91,6 +91,7 @@ __Очень важно:__ Категорически запрещено пол�
 
 *Семинар 17.* Кластеризация
 * [Задание для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Sem_clustering_students.ipynb)
+* [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Sem_clustering.ipynb)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
