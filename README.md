@@ -93,6 +93,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Задание для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Sem_clustering_students.ipynb)
 * [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Sem_clustering.ipynb)
 
+*Семинар 18.* Рекомендательные системы
+* [Ноутбук семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/sem16-recsys.ipynb)
+
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
