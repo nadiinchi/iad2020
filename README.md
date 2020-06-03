@@ -94,7 +94,8 @@ __Очень важно:__ Категорически запрещено пол�
 * [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Sem_clustering.ipynb)
 
 *Семинар 18.* Рекомендательные системы
-* [Ноутбук семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/sem16-recsys.ipynb)
+* [Ноутбук семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/sem16-recsys-oleg.ipynb)
+* [Ноутбук с предобработкой данных](https://github.com/nadiinchi/iad2020/blob/master/materials/sem16-recsys-preprocess.ipynb)
 
 ## Полезные ссылки
 * [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
